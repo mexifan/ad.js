@@ -66,6 +66,12 @@ function FindProxyForURL(url, host){
 "cupid.iqiyi.com",
 "paopao.iqiyi.com",
 "ckm.iqiyi.com",
+"ad.m.iqiyi.com",
+"afp.qiyi.com",
+"cupid.iqiyi.com",
+"cupid.qiyi.com",
+"ifacelog.iqiyi.com",
+"rcd.iqiyi.com",
 //<google>
 "2mdn.net",
 "admob.com",
